@@ -1,0 +1,21 @@
+[2024-12-30 16:20:06,562] DEBUG - Using selector: EpollSelector
+[2024-12-30 16:20:07,562] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:08,562] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:09,563] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:10,564] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:11,567] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:12,567] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:13,568] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:14,569] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:15,570] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:16,570] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:17,572] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:18,422] INFO - User input: 'hello'
+[2024-12-30 16:20:18,422] DEBUG - Using selector: EpollSelector
+[2024-12-30 16:20:18,572] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:19,573] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:20,573] DEBUG - Logging terminal is active.
+[2024-12-30 16:20:21,315] INFO - Exiting application.
+[2024-12-30 16:22:40,331] DEBUG - Using selector: EpollSelector
+[2024-12-30 16:22:41,331] DEBUG - Logging terminal is active.
+[2024-12-30 16:22:41,667] INFO - Exiting application.
